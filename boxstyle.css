@@ -1,0 +1,38 @@
+header{
+    color: rgb(64, 138, 228);/*文字色*/
+    background: rgba(44, 48, 53, 1);
+    border: solid 3px rgb(36, 38, 41);/*線*/
+    
+    text-align: center;
+    border-bottom:solid 3px rgb(47, 170, 158);
+    
+   
+    
+}
+footer {
+    color: rgb(50, 120, 206);
+    background: rgba(44, 48, 53, 1);
+    border-top:solid 3px turquoise;
+}
+
+main {  /* center */
+    background: rgba(67, 72, 78, 0.8);
+    color: rgb(50, 120, 206);
+    
+    
+}
+
+nav {   /* :left */
+    color: rgb(50, 120, 206);
+    font-size: 20px;
+    background: rgba(50, 73, 100, 0.8);
+   
+    
+}
+
+
+aside { /* :right */
+    color: rgb(50, 120, 206);
+    background: rgba(141, 153, 168, 0.8);
+    
+}
